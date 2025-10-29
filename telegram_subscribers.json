@@ -1,0 +1,48 @@
+{
+  "subscribers": [
+    {
+      "chat_id": "6826725679",
+      "username": null,
+      "first_name": "Rianta",
+      "registered_at": "2025-10-28T16:46:48.082275",
+      "last_updated": "2025-10-28T16:46:48.082275",
+      "active": true
+    },
+    {
+      "chat_id": "1037170129",
+      "username": "Aalewyr",
+      "first_name": "Geez",
+      "registered_at": "2025-10-28T16:46:48.700089",
+      "last_updated": "2025-10-28T16:46:48.700089",
+      "active": true
+    },
+    {
+      "chat_id": "1699434163",
+      "username": "Miaw245",
+      "first_name": "Zead",
+      "registered_at": "2025-10-28T16:46:49.614454",
+      "last_updated": "2025-10-28T16:46:53.195008",
+      "active": true
+    },
+    {
+      "chat_id": "395628514",
+      "username": "disavers",
+      "first_name": "Dilla Salza",
+      "registered_at": "2025-10-28T16:55:02.018865",
+      "last_updated": "2025-10-28T16:55:02.018865",
+      "active": true
+    },
+    {
+      "chat_id": "5255617776",
+      "username": "wuppiezz",
+      "first_name": "ferdi",
+      "registered_at": "2025-10-28T17:06:02.421085",
+      "last_updated": "2025-10-28T17:06:02.421085",
+      "active": true
+    }
+  ],
+  "metadata": {
+    "total_subscribers": 5,
+    "last_update": "2025-10-28T17:06:02.421085"
+  }
+}
