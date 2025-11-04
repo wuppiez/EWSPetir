@@ -1,0 +1,72 @@
+{
+  "subscribers": [
+    {
+      "chat_id": "6826725679",
+      "username": null,
+      "first_name": "Rianta",
+      "registered_at": "2025-10-28T16:46:48.082275",
+      "last_updated": "2025-10-28T16:46:48.082275",
+      "active": true
+    },
+    {
+      "chat_id": "1037170129",
+      "username": "Aalewyr",
+      "first_name": "Geez",
+      "registered_at": "2025-10-28T16:46:48.700089",
+      "last_updated": "2025-10-28T16:46:48.700089",
+      "active": true
+    },
+    {
+      "chat_id": "395628514",
+      "username": "disavers",
+      "first_name": "Dilla Salza",
+      "registered_at": "2025-10-28T16:55:02.018865",
+      "last_updated": "2025-10-28T16:55:02.018865",
+      "active": true
+    },
+    {
+      "chat_id": "1699434163",
+      "username": "Miaw245",
+      "first_name": "Zead",
+      "registered_at": "2025-11-02T11:19:18.910968",
+      "last_updated": "2025-11-02T11:19:18.910968",
+      "active": true
+    },
+    {
+      "chat_id": "5142636458",
+      "username": null,
+      "first_name": "Salsabila Aulia Putri Saragih",
+      "registered_at": "2025-11-02T11:19:36.932639",
+      "last_updated": "2025-11-02T11:19:36.932639",
+      "active": true
+    },
+    {
+      "chat_id": "7605301591",
+      "username": null,
+      "first_name": "zz",
+      "registered_at": "2025-11-02T11:31:31.531998",
+      "last_updated": "2025-11-02T11:31:31.531998",
+      "active": true
+    },
+    {
+      "chat_id": "7452548533",
+      "username": null,
+      "first_name": "yashinta",
+      "registered_at": "2025-11-02T11:31:56.204646",
+      "last_updated": "2025-11-02T11:32:37.802312",
+      "active": true
+    },
+    {
+      "chat_id": "5255617776",
+      "username": "wuppiezz",
+      "first_name": "ferdi",
+      "registered_at": "2025-11-04T14:19:02.095454",
+      "last_updated": "2025-11-04T14:19:02.095454",
+      "active": true
+    }
+  ],
+  "metadata": {
+    "total_subscribers": 8,
+    "last_update": "2025-11-04T14:19:02.095454"
+  }
+}
