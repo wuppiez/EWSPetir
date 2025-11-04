@@ -103,7 +103,7 @@ LOCATION_LON = 106.725833  # 106°43'33"E
 KODE_WILAYAH_ADM4 = "32.01.30.2005"
 
 # ==================== KONFIGURASI TELEGRAM BOT ====================
-TELEGRAM_BOT_TOKEN = "8271915231:AAGyCe7dKqbZMmrAs4_XHlfes-JaHNPJTeE"
+TELEGRAM_BOT_TOKEN = "8271915231:AAHs3KqpB-ACwPh_LxYRNx9hKLPqaoWArWE"
 SUBSCRIBERS_FILE = "telegram_subscribers.json"
 TELEGRAM_ENABLED = True  # Aktifkan notifikasi Telegram
 # ==================================================================
@@ -1094,4 +1094,5 @@ st.sidebar.caption("📄 Data BMKG diperbarui setiap 3 jam")
 st.sidebar.caption("💾 Cache lokal: 10 menit")
 st.sidebar.caption("📡 API: api.bmkg.go.id/publik")
 st.sidebar.caption("🤖 Auto-registration: Aktif")
+
 st.sidebar.caption("v4.0 - Dashboard EWS + Auto Telegram Bot")
